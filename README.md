@@ -1,2 +1,0 @@
-# Linux
-Repositório de Scripts
